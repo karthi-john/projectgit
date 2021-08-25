@@ -1,1 +1,2 @@
-hi how are you this my first local repo created file
+hi how are you this my first local repo create
+now i created a branch called firstbranch and inserted this line
