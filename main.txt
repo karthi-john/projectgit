@@ -2,3 +2,4 @@ hi how are you this my first local repo create
 now i created a branch called firstbranch and inserted this line
 now i changed this text in github master you are going to pull in remote git
 this is edited in local repo in master
+then i edited this in github repo in master
